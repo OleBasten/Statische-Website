@@ -1,4 +1,9 @@
 # Statische-Website
+
+> [!IMPORTANT]
+> **Status:** Er is momenteel een probleem met de weergave via GitHub Pages. Voor de beste ervaring kun je de repository lokaal klonen en draaien via de **VS Code Live Server**. Ik werk momenteel aan een fix!
+
+
 Deze repository bevat een statische website die ik heb ontwikkeld tijdens de eerste periode van mijn opleiding.
 De opdracht was om een website te maken over de gemeente waarin ik woon, namelijk Cuijk.
 De website is opgebouwd met HTML en CSS, en bevat enkele kleine stukjes JavaScript, zoals de dark/light-modus.
