@@ -18,6 +18,6 @@ const knop = document.getElementById('Copyright-knop');
 
 // Voeg een klik-event toe
 knop.addEventListener('click', function() {
-  alert('Ole Basten, Alle Rechten Voorbehouden. Ole.Basten@edu-kw1c.nl');
+  alert('This could have been a e-mail guys.');
 });
 
