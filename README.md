@@ -1,7 +1,7 @@
 # Statische-Website
 
 > [!IMPORTANT]
-> **Status:** Er is momenteel een probleem met de weergave via GitHub Pages. Voor de beste ervaring kun je de repository lokaal klonen en draaien via de **VS Code Live Server**. Ik werk momenteel aan een fix!
+> **Status:** Probleem met pages is opgelost.
 
 
 Deze repository bevat een statische website die ik heb ontwikkeld tijdens de eerste periode van mijn opleiding.
